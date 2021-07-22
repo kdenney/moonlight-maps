@@ -133,49 +133,49 @@
             "name": "moonlight-maps-drio8x04wq",
             "manifest": "https://www.dropbox.com/s/v9t8tdrio8x04wq/module.json?dl=1"
         }, {
-            "name": "moonlight-maps-rr51pmwvt/",
+            "name": "moonlight-maps-rr51pmwvt",
             "manifest": "https://dl.dropbox.com/s/n6miamrr51pmwvt/module.json"
         }, {
-            "name": "moonlight-maps-2k3urdirb/",
+            "name": "moonlight-maps-2k3urdirb",
             "manifest": "https://dl.dropbox.com/s/ivbvfy2k3urdirb/module.json"
         }, {
-            "name": "moonlight-maps-xw3n6f9qq/",
+            "name": "moonlight-maps-xw3n6f9qq",
             "manifest": "https://dl.dropbox.com/s/tth46pxw3n6f9qq/module.json"
         }, {
-            "name": "moonlight-maps-zb2td4ml5/",
+            "name": "moonlight-maps-zb2td4ml5",
             "manifest": "https://dl.dropbox.com/s/xbkpuezb2td4ml5/module.json"
         }, {
-            "name": "moonlight-maps-lxzil5v24/",
+            "name": "moonlight-maps-lxzil5v24",
             "manifest": "https://dl.dropbox.com/s/hdthcilxzil5v24/module.json"
         }, {
-            "name": "moonlight-maps-5xd6bn3na/",
+            "name": "moonlight-maps-5xd6bn3na",
             "manifest": "https://dl.dropbox.com/s/yu3j5j5xd6bn3na/module.json"
         }, {
-            "name": "moonlight-maps-3mll6kt5f/",
+            "name": "moonlight-maps-3mll6kt5f",
             "manifest": "https://dl.dropbox.com/s/q3by2q3mll6kt5f/module.json"
         }, {
-            "name": "moonlight-maps-afpsr3fdl/",
+            "name": "moonlight-maps-afpsr3fdl",
             "manifest": "https://dl.dropbox.com/s/syfx5jafpsr3fdl/module.json"
         }, {
-            "name": "moonlight-maps-7r8izlbdf/",
+            "name": "moonlight-maps-7r8izlbdf",
             "manifest": "https://dl.dropbox.com/s/h40z5h7r8izlbdf/module.json"
         }, {
-            "name": "moonlight-maps-usu4tzlxw/",
+            "name": "moonlight-maps-usu4tzlxw",
             "manifest": "https://dl.dropbox.com/s/fpavjqusu4tzlxw/module.json"
         }, {
-            "name": "moonlight-maps-q9vkwclw0/",
+            "name": "moonlight-maps-q9vkwclw0",
             "manifest": "https://dl.dropbox.com/s/xzi9geq9vkwclw0/module.json"
         }, {
-            "name": "moonlight-maps-8ekp4im2r/",
+            "name": "moonlight-maps-8ekp4im2r",
             "manifest": "https://dl.dropbox.com/s/d5s9g38ekp4im2r/module.json"
         }, {
-            "name": "moonlight-maps-fjhynezst/",
+            "name": "moonlight-maps-fjhynezst",
             "manifest": "https://dl.dropbox.com/s/7klhkcfjhynezst/module.json"
         }
     ],
     "socket": true,
-    "manifest": "https://github.com/kdenney/moonlight-maps/releases/latest/download/module.json",
-    "download": "https://github.com/kdenney/moonlight-maps/releases/latest/download/module.zip",
+    "manifest": "https://github.com/kdenney/moonlight-maps/releases/download/1.0/moonlight-maps.module.json",
+    "download": "https://github.com/kdenney/moonlight-maps/archive/refs/tags/1.0.zip",
     "protected": false,
     "coreTranslation": false
 }
