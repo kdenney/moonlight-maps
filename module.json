@@ -1,5 +1,5 @@
 {
-    "name": "moonlight maps",
+    "name": "moonlight-maps",
     "title": "Moonlight Maps, all of them",
     "description": "Full VTT pack of Moonlight maps made by Kyle",
     "author": "oddguy111",
@@ -172,10 +172,5 @@
             "name": "moonlight-maps-fjhynezst",
             "manifest": "https://dl.dropbox.com/s/7klhkcfjhynezst/module.json"
         }
-    ],
-    "socket": true,
-    "manifest": "https://github.com/kdenney/moonlight-maps/releases/download/1.0/moonlight-maps.module.json",
-    "download": "https://github.com/kdenney/moonlight-maps/archive/refs/tags/1.0.zip",
-    "protected": false,
-    "coreTranslation": false
+    ]
 }
